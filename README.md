@@ -1,13 +1,9 @@
 # OpenAI、Claude 新旗舰同日曝光：GPT-6.2 Astra 与 Mythos/Fable 5.5 周末连环泄密
 
-> 原文来源：[新智元 · 微信公众号](https://mp.weixin.qq.com/s/8JEFMDRFwoqgWN2PhMKmqA)（发布于 2026-11-02 06:49）  
-> 本文在保留全部事实与全部配图的前提下做可读性润色，**爆料与规格/发布时间均以原文及各方公开信息为准，不构成承诺。**
+> 素材整理自公开网络讨论与相关截图（含 [原始链接](https://mp.weixin.qq.com/s/8JEFMDRFwoqgWN2PhMKmqA)，2026-11-02）。  
+> 本文在保留全部事实与全部配图的前提下做可读性润色，**爆料与规格/发布时间均以公开信息为准，不构成承诺。**
 
 ![封面](https://upload.maynor1024.live/file/1793584661841_01.jpg)
-
-**新智元报道**
-
-![新智元标识](https://upload.maynor1024.live/file/1793584669443_02.png)
 
 两大新模型爆料，竟撞在了同一天！
 
@@ -214,14 +210,10 @@ AI 在后台不知疲倦地连续编码 **1 至 2 个小时**，交出的成品�
 - https://x.com/kimmonismus/status/2116914141017370972
 - https://x.com/TokenGremlin/status/2116902920176197828
 
-编辑：摩西 桃子
-
 ---
 
-![文末关注引导](https://upload.maynor1024.live/file/1793584706397_23.jpg)
+![文末配图](https://upload.maynor1024.live/file/1793584706397_23.jpg)
 
-![文末图](https://upload.maynor1024.live/file/1793584701326_24.png)
+![文末配图](https://upload.maynor1024.live/file/1793584701326_24.png)
 
-**来源声明：** 本文整理自微信公众号「新智元」原文  
-原文链接：https://mp.weixin.qq.com/s/8JEFMDRFwoqgWN2PhMKmqA  
-配图已全部镜像至自定义图床（24 张唯一图，正文按原文顺序插入 29 处，无省略）；如站点改写/删稿，以原文及官方实时信息为准。
+**说明：** 配图已全部镜像至自定义图床（24 张唯一图，正文按顺序插入 29 处，无省略）。爆料细节以各方公开信息为准。原始素材链接：https://mp.weixin.qq.com/s/8JEFMDRFwoqgWN2PhMKmqA
